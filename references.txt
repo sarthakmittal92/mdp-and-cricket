@@ -1,0 +1,8 @@
+https://towardsdatascience.com/implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9
+https://stackoverflow.com/questions/1995615/how-can-i-format-a-decimal-to-always-show-2-decimal-places
+https://www.analyticsvidhya.com/blog/2018/09/reinforcement-learning-model-based-planning-dynamic-programming/
+https://realpython.com/linear-programming-python/
+https://coin-or.github.io/pulp/guides/how_to_configure_solvers.html
+https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1202/handouts/py-file.html
+https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.html
+https://www.statology.org/matplotlib-reverse-axis/

@@ -1,0 +1,18 @@
+Running for  data/cricket/cricket_state_list.txt  with policy data/cricket/sample-p1.txt
+
+ Generating the MDP encoding using encoder.py
+
+ Generating the value policy file using planner.py using default algorithm
+
+ Generating the decoded policy file using decoder.py
+Verifying policy and win probabilities
+All OK
+Running for  data/cricket/cricket_state_list.txt  with policy data/cricket/sample-p2.txt
+
+ Generating the MDP encoding using encoder.py
+
+ Generating the value policy file using planner.py using default algorithm
+
+ Generating the decoded policy file using decoder.py
+Verifying policy and win probabilities
+All OK
