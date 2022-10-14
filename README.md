@@ -13,5 +13,8 @@ MDP solvers have a variety of applications. As the second part of this assignmen
 ## Code Structure
 [This compressed directory](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/pa-2/code.tar.gz) contains a data directory with sample data for both parts and helper functions to visualize and test your code. Your code will also be evaluated on instances other than the ones provided.
 
+## Report
+Prepare a short report, in which you put your design decisions, assumptions, and observations about the algorithms (if any) for Task 1. Also describe how you formulated the MDP for the Cricket problem: that is, for Task 2. Finally, include the 3 graphs for Task 2 with your observations.
+
 ## Complete Problem
 The full problem statement is accessible here: [CS747 Programming Assignment 2](https://hackmd.io/@sarthakmittal/HykvfZGzo)
